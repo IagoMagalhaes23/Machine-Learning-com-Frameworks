@@ -1,7 +1,7 @@
 # Machine-Learning-com-Frameworks
 Repositório para o desenvolvimento de algoritmos de Machine Learning utilizando alguns frameworks populares no mercado
 
-- KNN: KNearest Neighbors
+- KNN: KNearest Neighbors<br>
 <justify>Esse algoritmo é o mais simples de todos os algoritmos de Aprendizado de Máquina. A intuição por trás do algoritmo é:
   <br>
   <center><i>Objetos relacionados ao mesmo conceito são semelhantes entre si.</i></center>
